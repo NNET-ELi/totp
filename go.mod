@@ -1,3 +1,3 @@
-module github.com/openp2p-cn/totp
+module github.com/NNET-Eli/totp
 
 go 1.18
